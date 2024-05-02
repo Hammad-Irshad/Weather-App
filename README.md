@@ -4,7 +4,7 @@
 
 # Live Demo
 
-click image to view it in your browser.[<img src="front.jpg">](https://weather-app-1357.netlify.app/) 
+click image to view it in your browser.[<img src="front.jpg">](https://myatmosphere360.netlify.app/) 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
